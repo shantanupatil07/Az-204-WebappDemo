@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'azgitdemo'
           slot-name: 'Production'
-          package: .
+          package: ./publish
           
